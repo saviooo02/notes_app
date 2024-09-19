@@ -1,7 +1,7 @@
 function Hero() {
   return (
     <div className="relative min-h-[calc(100vh-56px)] flex flex-col justify-start items-center pt-28 space-y-4 px-4">
-      <p className="bg-slate-700 text-2xl font-inter md:text-4xl lg:text-5xl text-neutral-500 text-center font-bold dark:text-neutral-200">
+      <p className="text-2xl font-inter md:text-4xl lg:text-5xl text-neutral-500 text-center font-bold dark:text-neutral-200">
         Turn your ideas into structured notes <br /> with ease, all in one place.
       </p>
       <button
